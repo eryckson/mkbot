@@ -20,7 +20,7 @@ class ApiServer {
         jwksRequestsPerMinute: 5,
         jwksUri
       }),
-      audience: 'http://fcoury.pagekite.me/',
+      audience: 'https://fiduta.auth0.com/api/v2/',
       issuer: `${process.env.AUTH0_URL}/`,
       algorithms: ['RS256']
     });

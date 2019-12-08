@@ -1,5 +1,5 @@
 {
-  "domain": "mrkeebs.auth0.com",
-  "clientId": "IAkI2XQ14Vno3SuFceBovm2pT8cpY2Xo",
-  "audience": "http://fcoury.pagekite.me/"
+  "domain": "fiduta.auth0.com",
+  "clientId": "bz9yvBPQzT7yPJ5xGiL0XmHuYjsamA9i",
+  "audience": "https://fiduta.auth0.com/api/v2/"
 }
